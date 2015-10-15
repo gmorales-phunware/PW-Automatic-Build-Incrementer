@@ -1,4 +1,4 @@
-# Automatic Build Incremented
+# Automatic Build Incrementer
 
 ## Steps: 
 1. Select your target and go to Build Phases
